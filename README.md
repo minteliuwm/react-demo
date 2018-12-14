@@ -1,4 +1,4 @@
-# main
+# React Demo
 
 ## Project setup
 ```
